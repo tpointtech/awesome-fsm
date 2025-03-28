@@ -102,7 +102,7 @@ A nondeterministic finite automaton has a finite number of states and a finite n
 - [Nondeterministic Finite Automata](http://people.seas.harvard.edu/~cs125/fall16/lec12.pdf)
 - [Non-deterministic Finite State Machines](http://www.inf.ed.ac.uk/teaching/courses/inf1/cl/notes/Comp3.pdf)
 - [Nondeterministic Finite Automata](https://people.cs.clemson.edu/~goddard/texts/theoryOfComputation/3a.pdf)
-- [NFA (Non-Deterministic finite automata)](https://www.javatpoint.com/non-deterministic-finite-automata)
+- [NFA (Non-Deterministic finite automata)](https://www.tpointtech.com/non-deterministic-finite-automata)
 
 ### Mealy Machine
 
@@ -111,7 +111,7 @@ A mealy machine is a machine where the output value is determined by the input a
 #### Further Reading
 
 - [Mealy machine](https://en.wikipedia.org/wiki/Mealy_machine)
-- [Mealy Machine](https://www.javatpoint.com/automata-mealy-machine)
+- [Mealy Machine](https://www.tpointtech.com/automata-mealy-machine)
 - [Mealy machine](https://ncatlab.org/nlab/show/Mealy+machine)
 - [Mealy machine](https://xlinux.nist.gov/dads/HTML/mealyMachine.html)
 - [Mealy state machine](https://www.slideshare.net/arifsiyal7/mealy-state-machine)
@@ -126,7 +126,7 @@ A Moore machine is a machine where the output is determined by only its current 
 #### Further Reading
 
 - [Moore machine](https://en.wikipedia.org/wiki/Moore_machine)
-- [Moore Machine](https://www.javatpoint.com/automata-moore-machine)
+- [Moore Machine](https://www.tpointtech.com/automata-moore-machine)
 - [Moore Machine](https://xlinux.nist.gov/dads/HTML/mooreMachine.html)
 - [Moore Finite State Machine](https://www.electronics-tutorial.net/finite-state-machines/State-Machine-Fundamentals/Moore-Finite-State-Machine/)
 - [Moore and Mealy Machine Design Procedure](http://www2.elo.utfsm.cl/~lsb/elo211/aplicaciones/katz/chapter8/chapter08.doc4.html)
